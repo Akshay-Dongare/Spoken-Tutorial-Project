@@ -1,5 +1,5 @@
 # Spoken-Tutorial-Project
-Collection of all certifications from Spoken-Tutorial-Project at IIT Bombay
+Collection of all the certifications I have completed in Spoken Tutorial Project at IIT Bombay
 # Python 3.4.3 
 https://github.com/Akshay-Dongare/Python-3.4.3-Test
 # Advanced CPP
