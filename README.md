@@ -10,3 +10,5 @@ https://github.com/Akshay-Dongare/RDBMS-PostgreSQL-Test
 https://github.com/Akshay-Dongare/R-SpokenTutorial-Test
 # PHP and MYSQL
 https://github.com/Akshay-Dongare/PHP-MYSQL-TEST
+# Scilab
+https://github.com/Akshay-Dongare/Scilab-SpokenTutorial-Test
